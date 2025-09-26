@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ladymiaumiau
-- 👀 I’m interested in learn a lot about phyton and another codes
-- 🌱 I’m currently learning phyton
+- 👀 I’m interested in learn a lot about phyton, data analyst, IA and another codes
+- 🌱 I’m currently learning Data Analyst couurse
 - 💞️ I’m looking to collaborate on a place for learn and practice more
 - 📫 How to reach me 
 - 😄 Pronouns: ...
